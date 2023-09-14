@@ -9,5 +9,4 @@ public class JKTV22MyFirstPro {
         String lastname = scanner.nextLine();
         System.out.println("Привет " + firstname + " " + lastname + "!");
     }
-    
 }
